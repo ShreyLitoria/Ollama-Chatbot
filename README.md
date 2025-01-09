@@ -1,5 +1,5 @@
 # Ollama-Chatbot
-# Enhanced Q&A Chatbot With OpenAI
+## Enhanced Q&A Chatbot With OpenAI
 
 This is a Streamlit app that uses LangChain and OpenAI models to create a Q&A chatbot. The chatbot is designed to answer user queries based on a variety of open-source models, including the **Ollama** model. It features an interactive interface to adjust parameters like **temperature** and **max tokens** for fine-tuning the model's responses.
 
